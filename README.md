@@ -58,9 +58,9 @@ Swagger se muestra en la pagina principal para poder acceder a los endpoints con
 La paginacion no es necesaria si hay pocos datos en la db(el valor de 10 es el tamaño por default de cada pagina), basta con colocar el valor de 1 si se desea probar este campo
 
 
-![swagger](https://raw.githubusercontent.com/okadath/swagger.png)
+![swagger]([https://raw.githubusercontent.com/okadath/swagger.png](https://raw.githubusercontent.com/okadath/examen_MB/refs/heads/master/swagg.png))
 
 ### Filtro por edad
 
 el campo para filtrar por edad minima es mimimum_age, en el endpoint se agrega al final de la url  `/?minimum_age=10`, en Swagger esta en el el campo "minimum_age" en su respectivo formulario
-![swagger](https://raw.githubusercontent.com/okadath/swagger.png)
+![swagger](https://raw.githubusercontent.com/okadath/examen_MB/refs/heads/master/filter.png)
